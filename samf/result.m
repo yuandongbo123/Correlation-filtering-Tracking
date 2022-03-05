@@ -1,0 +1,19 @@
+ICC_liuhong - Precision (20px): 0.688, FPS: 20.67
+hcc_jiangyuqin - Precision (20px): 0.859, FPS: 16.13
+hcc_liuguoku - Precision (20px): 0.342, FPS: 9.07
+ hcc_liyuwen - Precision (20px): 1.000, FPS: 4.80
+hcc_lizhiguo - Precision (20px): 0.992, FPS: 5.91
+hcc_quwencai - Precision (20px): 0.738, FPS: 6.32
+hcc_renwenxu - Precision (20px): 0.919, FPS: 9.06
+hcc_wangxiuhua - Precision (20px): 0.004, FPS: 12.91
+hcc_wangxiuhua_box - Precision (20px): 1.000, FPS: 12.85
+   hcc_xinyu - Precision (20px): 0.965, FPS: 8.96
+ hcc_xuhaowu - Precision (20px): 0.739, FPS: 14.15
+hcc_zhanghaitao - Precision (20px): 0.955, FPS: 16.69
+hcc_zhangwenji - Precision (20px): 0.641, FPS: 19.17
+icc_chenwenfeng - Precision (20px): 0.327, FPS: 19.56
+icc_mazhijun - Precision (20px): 0.042, FPS: 16.35
+icc_shitiewen - Precision (20px): 0.050, FPS: 4.40
+   img_label - Precision (20px): 0.999, FPS: 8.56
+
+Average precision (20px): 0.662, Average FPS: 12.09
